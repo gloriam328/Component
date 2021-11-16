@@ -2,7 +2,9 @@
 table, th, td ,tr {
     border: 1px solid black;
     border-radius: 10px;
-    border-color: black;
-    text-align: center;
+    border-color: red;
+}
+td {
+  text-align: center;
 }
 

@@ -1,6 +1,8 @@
 
 table, th, td ,tr {
     border: 3px solid black;
-    border-color: black;
-    text-align: center;
+    border-color: red;
 }
+td {
+    text-align: center;
+  }
